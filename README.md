@@ -3,7 +3,7 @@ I'm Ahmad Asroni, currently pursuing studies at Undiksha University.
 
 ### About me
 -🔭 I’m currently working as a Web Developer <br>
--🌱 I’m currently learning Laravel, Flutter and Vue.js <br>
+-🌱 I’m currently learning Laravel, django, Flutter, React and Vue <br>
 -📫 How to reach me: ahmadasroni38@gmail.com <br>
 <p align="center">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
